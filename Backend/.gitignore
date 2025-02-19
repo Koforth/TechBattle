@@ -1,0 +1,13 @@
+/.idea
+apiUsuario/app/Http/Controllers/Api/InstitucionesController.php.bak
+apiUsuario/database/seeders/DatabaseSeeder.php.bak
+apiUsuario/database/seeders/DatabaseSeeder.php.bak
+apiUsuario/database/seeders/DepartamentoSeeder.php.bak
+*.bak
+*.bak
+*.bak
+apiUsuario/database/seeders/DatabaseSeeder.php.bak
+apiUsuario/database/seeders/DatabaseSeeder.php.bak
+*.xml
+*.iml
+/vendor
